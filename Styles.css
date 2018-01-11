@@ -1,0 +1,23 @@
+html {
+  background-color: rgb(58, 58, 58);
+}
+
+nav {
+  display: inline;
+  text-align: center;
+  width: 60%;
+}
+
+a, input {
+  width: 25%;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+  padding: 20px;
+}
+
+a:hover {
+  color: green;
+}
